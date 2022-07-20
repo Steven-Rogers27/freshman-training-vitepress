@@ -1,7 +1,6 @@
 export default {
   title: '数院前端开发分享',
   description: '数院前端开发分享',
-  outDir: '../public',
   base: '/freshman/',
   markdown: {
     lineNumbers: true
@@ -25,6 +24,7 @@ export default {
           { text: '本地开发', link: '/integration/local-dev', },
           { text: '打包部署', link: '/integration/deploy', },
           { text: '前后端联调', link: '/integration/joint-debug', },
+          { text: 'H5开发', link: '/integration/h5-dev', },
         ],
       },
       {
