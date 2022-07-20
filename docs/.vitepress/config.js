@@ -1,7 +1,8 @@
 export default {
-  title: '数院前端技术栈分享',
-  description: '数院前端技术栈分享',
+  title: '数院前端开发分享',
+  description: '数院前端开发分享',
   outDir: '../public',
+  base: '/freshman/',
   markdown: {
     lineNumbers: true
   },
