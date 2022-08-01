@@ -16,7 +16,7 @@ export default {
         collapsible: true,
         items: [
           { text: '开发模式', link: '/integration/dev-mode', },
-          { text: '系统简介', link: '/integration/index', },
+          { text: '系统简介', link: '/integration/introduction', },
           { text: '技术栈', link: '/integration/tech-stack', },
           { text: '示例项目', link: '/integration/project', },
           { text: '本地开发环境准备', link: '/integration/dev-env', },
